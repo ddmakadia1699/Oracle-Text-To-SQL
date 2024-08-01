@@ -1,0 +1,2 @@
+Index,Uniqueness,Tablespace,Columns
+GL_JI_ERROR_CODES_N1,Non Unique,Default,"REQUEST_ID, IMPORT_DATE"

@@ -1,0 +1,1 @@
+  GL_JE_SOURCES_TL contains source name in installed languages. Each row includes the user source name and description. This table has foreign key reference to GL_JE_SOURCES_B on column JE_SOURCE_NAME and the standard who columns. Schema: FUSION Object owner: GL Object type: TABLE Tablespace: REFERENCE GL_JE_SOURCES_PK JE_SOURCE_NAME, LANGUAGE

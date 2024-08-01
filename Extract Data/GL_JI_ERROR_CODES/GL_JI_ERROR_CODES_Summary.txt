@@ -1,0 +1,1 @@
+  GL_JI_ERROR_CODES is populated with new row or rows if Journal Import process failed. Contents of the table are used by Dashboard. Schema: FUSION Object owner: GL Object type: TABLE Tablespace: Default
